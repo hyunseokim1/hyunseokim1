@@ -9,8 +9,11 @@
 
 #### Intro
 Hello, this is Hyunseo Kim and you can call me Ella.
+
 I'm a student at UCLA majoring Statistics and Data Science.
+
 I like... 🍰 🌭 🍦 🍪
+
 My hobby is ... 🎶
 
 <!--
